@@ -1,0 +1,41 @@
+body{
+    background-color: #dddddd;
+    height: 80%;
+    font-size:larger;
+
+}
+#contenIM{
+    display: inline-block;
+    width: 70%;
+    margin-left: 10%;
+    margin-bottom: 0.5%;
+    padding: 5px 10px;
+    background-color:white;
+    border-radius: 10px;
+}
+#principal{
+    font-family:Arial, Helvetica, sans-serif;
+    width: 70%;
+    padding: 5px 5%;
+    background-color:white;
+    background-size: 50%;
+    border-radius: 10px;
+}
+img{
+    margin: 10px;
+    
+}
+button{
+    background-color: red;
+    border-radius: 6px;
+    color: white;
+    font-size: larger;
+    
+}
+footer {
+    position: relative;
+    width: 100%;
+    clear:both;
+    background-color: rgb(90, 85, 85);
+    color: rgb(0, 0, 0);
+}
